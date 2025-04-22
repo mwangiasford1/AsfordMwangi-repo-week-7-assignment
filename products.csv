@@ -1,0 +1,5 @@
+product,price,item,brand,rating,stock,discount,warranty,color,size,weight,dimensions,material,battery,processor,camera,connectivity,features,release_date,revenue ($)
+smart tv,1000,electronics,samsung,4.5,10,0.1,2,black,55 inch,30.0,48x28x5 cm,plastic,N/A,N/A,N/A,Wi-Fi,Smart TV,2020-01-01,10000
+hp laptop,1500,electronics,hp,4.7,5,0.2,1,silver,15 inch,2.0,35x24x2 cm,aluminum,4-cell,Intel i5,720p,"Wi-Fi, Bluetooth",Touchscreen,2019-05-01,7500
+macbook,2000,electronics,apple,4.8,2,0.15,1,gray,13 inch,1.5,30x20x1.5 cm,aluminum,4-cell,Apple M1,720p,"Wi-Fi, Bluetooth",Retina Display,2020-10-01,4000
+iphone,1200,electronics,apple,4.9,8,0.05,2,white,6.1 inch,0.5,15x7x0.5 cm,glass,2815 mAh,A14 Bionic,12 MP,"Wi-Fi, Bluetooth",Face ID,2021-03-01,9600
