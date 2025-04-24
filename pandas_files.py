@@ -4,6 +4,10 @@ try:
     # Attempt to read the file
     df = pd.read_csv("products.csv")  # Replace with your actual file name
     print("File loaded successfully.")
+    
+    # Display the first few rows of the dataset
+    print("First few rows of the dataset:")
+    print(df.head())
 except FileNotFoundError:
     print("Error: The file 'products.csv' was not found. Please check the file path.")
     exit()
